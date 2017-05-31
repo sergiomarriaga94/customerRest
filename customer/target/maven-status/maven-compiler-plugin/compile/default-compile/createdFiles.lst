@@ -1,0 +1,12 @@
+com\udea\customer\service\NewCrossOriginResourceSharingFilter.class
+com\udea\customer\service\DiscountCodeFacadeREST.class
+com\udea\customer\service\MicroMarketFacadeREST.class
+com\udea\customer\entity\DiscountCode_.class
+com\udea\customer\entity\Customer.class
+com\udea\customer\entity\DiscountCode.class
+com\udea\customer\entity\MicroMarket_.class
+com\udea\customer\service\CustomerFacadeREST.class
+com\udea\customer\entity\MicroMarket.class
+com\udea\customer\service\AbstractFacade.class
+com\udea\customer\entity\Customer_.class
+com\udea\customer\service\ApplicationConfig.class
